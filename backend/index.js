@@ -29,7 +29,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: [
-      "https://mystyle-u85e.onrender.com",
+      "https://mystyle-frontend9.onrender.com",
       "https://mystyle-admin-a3x5.onrender.com",
     ],
     credentials: true,
