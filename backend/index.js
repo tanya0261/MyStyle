@@ -29,7 +29,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: [
-      "http://localhost:5173",
+      "https://mystyle-u85e.onrender.com",
       "http://localhost:5174",
     ],
     credentials: true,
