@@ -1,7 +1,7 @@
 import React from 'react'
 import { createContext } from 'react'
 export const authDataContext = createContext()
-  let serverUrl = "http://localhost:8000"
+  let serverUrl = "https://mystyle-backend.onrender.com"
 
 function AuthContext({children}) {
 
