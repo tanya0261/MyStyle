@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import ai from "../assets/ai.png";
+import ai from "../assets/Ai.png";
 import { shopDataContext } from "../context/ShopContext";
 
 function AI() {
