@@ -30,7 +30,7 @@ app.use(
   cors({
     origin: [
       "https://mystyle-u85e.onrender.com",
-      "http://localhost:5174",
+      "https://mystyle-admin-a3x5.onrender.com",
     ],
     credentials: true,
   })
